@@ -1,4 +1,4 @@
-# Laptop Request Catalog Item – ServiceNow Project
+# Laptop Request Catalog Item
 
 ### Project Overview
 
