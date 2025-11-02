@@ -9,10 +9,10 @@ The goal is to design and implement a **Laptop Request Catalog Item** in Service
 ### Project Details
 - **Project Title:** Laptop Request Catalog Item
 - **Team Members:**
- Samuel George J(Leader)
- Prajith PV
- Jebin S
- Priya Dharshan M
+  - Samuel George J(Leader)
+  - Prajith PV
+  - Jebin S
+  - Priya Dharshan M
 - **Platform:** ServiceNow  
 - **Category:** ServiceNow System Administrator  
 - **Level:** Intermediate  
